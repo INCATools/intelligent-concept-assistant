@@ -2,5 +2,5 @@
 
 ![img](images/inca-flow.png)
 
-Coming soon! To follow updates, subscribe to [this ticket](https://github.com/cmungall/intelligent-concept-assistant/issues/1)
+Coming soon! To follow updates, subscribe to [this ticket](https://github.com/INCATools/intelligent-concept-assistant/issues/1)
 
